@@ -64,3 +64,7 @@ cd contatore
 
 3.
 Apri index.html nel browser.
+
+# counter
+repository per esercitazione javascript
+
