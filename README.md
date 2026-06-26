@@ -26,10 +26,8 @@ counter/
    index.html
    screenshot.png
    README.md
-   css/
-      style.css
-   js/
-      script,js
+   css/style.css
+   js/script,js
 
 ---
 
