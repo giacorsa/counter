@@ -23,13 +23,13 @@ Ecco un’anteprima dell’applicazione:
 ## 📂 Struttura del Progetto
 
 counter/
-│
-├── index.html
-├── css/
-│   └── style.css
-└── js/
-└── script.js
-
+   index.html
+   screenshot.png
+   README.md
+   css/
+      style.css
+   js/
+      script,js
 
 ---
 
@@ -59,8 +59,8 @@ counter/
    ```bash
    git clone https://github.com/giacorsa/counter.git
 
-2. Entra nella cartella 
-cd contatore
+2. Entra nella cartella counter:
+cd counter
 
 3.
 Apri index.html nel browser.
