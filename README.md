@@ -16,7 +16,7 @@ https://giacorsa.github.io/counter/
 
 Ecco un’anteprima dell’applicazione:
 
-![Screenshot dell'applicazione](./screenshot.png)
+![Screenshot dell'applicazione](screenshot.png)
 
 ---
 
