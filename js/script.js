@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const root = document.getElementById('root');
 
     // --- Stato ---
-    let count = parseInt(localStorage.getItem('counterValue')) || 0;
+    let count = parseInt(localStorage.getItem('counterValue'),10) || 0;
 
     // --- Creazione Elementi ---
     const container = document.createElement('div');
