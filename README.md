@@ -58,8 +58,7 @@ counter/
    git clone https://github.com/giacorsa/counter.git
 
 2. Entra nella cartella counter:
-cd counter
+   cd counter
 
-3.
-Apri index.html nel browser.
+3. Apri index.html nel browser.
 
