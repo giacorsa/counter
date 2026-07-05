@@ -1,7 +1,7 @@
 # 🧮 Counter – Mini Progetto JavaScript
 
 Un semplice **contatore interattivo** sviluppato in **HTML, CSS e JavaScript**, con salvataggio automatico del valore tramite **LocalStorage**.  
-Il progetto è stato realizzato come esercizio pratico come verifica aquisizione conoscena basi di JavaScript alll'interno del Master FSD realizzato da start2impact.
+Il progetto è stato realizzato come esercizio pratico di verifica basi di JavaScript all'interno del Master FSD realizzato da start2impact.
 
 ---
 
@@ -62,7 +62,4 @@ cd counter
 
 3.
 Apri index.html nel browser.
-
-# counter
-repository per esercitazione javascript
 
